@@ -1,0 +1,6 @@
+
+***LAS APKS FIRMADAS DEL PROYECTO SE ENCUENTRAN EN LA RUTA:
+C:\Users\ANDRES\Documents\SOFTWARE-DESIGNER\android\satenaApp\app\release
+
+TAMBIEN TENEMOS UNA LLAVE PRIVADA:
+		private_key.pepk
